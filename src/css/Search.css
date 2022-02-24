@@ -1,0 +1,28 @@
+.formgroup {
+    padding: 20px;
+    background-color: pink;
+}
+
+.search {
+    width: 300px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(255, 167, 210);
+    color: black;
+    margin-top: 20px;
+}
+
+.btn {
+    width: 40px;
+    border: none;
+    border-radius: 30px;
+    background-color: rgb(255, 167, 210);
+    padding: 5px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.h1 {
+    text-align: center;
+    margin-top: 50px;
+}

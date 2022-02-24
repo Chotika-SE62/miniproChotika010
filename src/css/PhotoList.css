@@ -1,0 +1,9 @@
+.containerphoto {
+    margin-top: 50px;
+}
+.photolist {
+    width: 300px;
+    height: auto;
+    float: center;
+    margin: 10px;
+}

@@ -1,0 +1,38 @@
+center .carduser {
+    width: 60%;
+    /* background-color: rgb(92, 176, 255); */
+    margin: 80px 0 0 0;
+}
+.imgprofile {
+    width: 80%;
+    border-radius: 50%;
+    /* border: 3px solid; */
+    margin: 20px 0 0 0;
+}
+.detail {
+    text-align: left;
+}
+.name {
+    font-size: 32px;
+    margin: 5% 0 0 0;
+    font-weight: bold;
+}
+.bio {
+    font-size: 16px;
+    margin: 1% 0 0 0;
+}
+.location {
+    font-size: 16px;
+    margin: 3% 0 0 0;
+    color: rgb(139, 139, 139);
+}
+.website{
+    text-decoration: none;
+    color: rgb(139, 139, 139);
+}
+.roww {
+    margin: 15px 0 0 0;
+}
+.text-center {
+    font-size: 14px;
+}
